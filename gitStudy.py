@@ -19,3 +19,5 @@ print('Here is the end of new branch')
 print('Now here begin a new branch named "new_branch2"')
 
 print('Now here end a new branch named "new_branch2"')
+
+print('new commit')
